@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.90598ac1.css",
+    "main.css": "/static/css/main.91af8f8a.css",
     "main.js": "/static/js/main.d68362de.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/lattice-website.png": "/static/media/lattice-website.8ccde4deadc4e8418641.png",
@@ -20,12 +20,12 @@
     "static/media/typescript.png": "/static/media/typescript.52ea0bc40ba11d507e7d.png",
     "static/media/sql.png": "/static/media/sql.be99f21a93dbdf9b0e20.png",
     "index.html": "/index.html",
-    "main.90598ac1.css.map": "/static/css/main.90598ac1.css.map",
+    "main.91af8f8a.css.map": "/static/css/main.91af8f8a.css.map",
     "main.d68362de.js.map": "/static/js/main.d68362de.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90598ac1.css",
+    "static/css/main.91af8f8a.css",
     "static/js/main.d68362de.js"
   ]
 }
